@@ -41,18 +41,19 @@
   - 👗 **Clothing Store Homepage:** A clean, modern, and mobile-friendly front-end web design project.
 
 </div>
+
 <div align="center">
 
   ### 📊 GitHub Stats & Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshi-Hettiarachchi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshi-Hettiarachchi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
 </div>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Maheshi&color=bluestyle=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&color=blue&style=flat-square)
 
 </div>
 
@@ -60,7 +61,7 @@
 
   ### 📬 Connect with Me
 
-  <a href="https://www.linkedin.com/in/Maheshi Hettiarachchi" target="_blank">
+  <a href="https://www.linkedin.com/in/Maheshi-Hettiarachchi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maheshihettiarachchi6@gmail.com">
@@ -71,7 +72,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshi-Hettiarachchi&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
@@ -79,28 +80,6 @@
 
   ### 📈 Contribution Activity
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshi&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshi-Hettiarachchi&theme=react-dark" alt="Contribution Graph" />
 
 </div>
-
-<div align="center">
-
-  ### 📌 Featured Repository
-
-  <a href="https://github.com/Maheshi/KERN Fashion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshi&repo=KERN Fashion &theme=tokyonight" />
-  </a>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
