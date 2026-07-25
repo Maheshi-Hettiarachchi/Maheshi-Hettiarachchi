@@ -41,3 +41,48 @@
   - 👗 **Clothing Store Homepage:** A clean, modern, and mobile-friendly front-end web design project.
 
 </div>
+<div align="center">
+
+  ### 📊 GitHub Stats & Top Languages
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+</div>
+
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=bluestyle=flat-square)
+
+</div>
+
+<div align="center">
+
+  ### 📬 Connect with Me
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
