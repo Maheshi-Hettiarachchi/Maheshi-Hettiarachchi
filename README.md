@@ -36,8 +36,8 @@
 
   ## 🚀 Featured Projects
 
-  - 🛒 **Fashion E-Commerce Store:** A responsive e-commerce web app featuring a custom shopping cart, product catalog, and backend database connection.
-  - 🍔 **Interactive Food Delivery App UI:** A user-centered UI/UX design project focused on seamless customer ordering workflows.
+  - 🛒 **KERN_Fashion E-Commerce Store:** A responsive e-commerce web app featuring a custom shopping cart, product catalog, and backend database connection.
+  - 🍔 **FoodPlaza Delivery App UI:** A user-centered UI/UX design project focused on seamless customer ordering workflows.
   - 👗 **Clothing Store Homepage:** A clean, modern, and mobile-friendly front-end web design project.
 
 </div>
