@@ -45,14 +45,14 @@
 
   ### 📊 GitHub Stats & Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
 </div>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=bluestyle=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Maheshi&color=bluestyle=flat-square)
 
 </div>
 
@@ -60,10 +60,10 @@
 
   ### 📬 Connect with Me
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/Maheshi Hettiarachchi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:maheshihettiarachchi6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -71,7 +71,15 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshi&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  ### 📈 Contribution Activity
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshi&theme=react-dark" alt="Contribution Graph" />
 
 </div>
 
