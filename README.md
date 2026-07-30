@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maheshi Hettiarachchi
 
-> HNDIT Ungraduate • Front-End Developer • UI/UX Enthusiast
+> HNDIT Ungraduate • Full Stack-Developer • UI/UX Enthusiast
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Maheshi%20Hettiarachchi&fontSize=42&fontColor=ffffff)
 
@@ -9,11 +9,12 @@
 </p>
 
 ## 💫 About Me
-- 🎓 HNDIT Student
-- 💻 Passionate Web Developer
-- 🎨 UI/UX Enthusiast
-- 🌱 Learning React & Laravel
-- 🚀 Building responsive web applications
+🎓 HNDIT Undergraduate  
+💻 Front-End Developer  
+🎨 UI/UX Design Enthusiast  
+🛠 Building Websites with HTML, CSS, JavaScript, PHP & MySQL  
+🌱 Currently Learning React & Laravel  
+🚀 Creating Responsive Web Applications
 
 ## 🛠 Tech Stack
 
@@ -38,10 +39,15 @@
 </p>
 
 ## 🚀 Featured Projects
-- 🛒 KERN Fashion E-Commerce
-- 🍔 FoodPlaza UI
-- 👗 Clothing Store Website
 
+- 🛒 **KERN Fashion E-Commerce**  
+  Full-stack clothing e-commerce website with product management, shopping cart, wishlist, and user features.
+
+- 🍔 **Food Ordering Website**  
+  Responsive food ordering platform with menu browsing, cart functionality, and modern user interface.
+
+- 🍕 **Bella Vista Italian Restaurant Website**  
+  Modern restaurant website designed for an Italian restaurant with attractive UI, menu sections, and responsive design.
 ## 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshi-Hettiarachchi&theme=tokyo-night"/>
