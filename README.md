@@ -1,159 +1,64 @@
 # 👋 Hi, I'm Maheshi Hettiarachchi
 
-> HNDIT Undergraduate • Front-End Developer • UI/UX Enthusiast
+> HNDIT Ungraduate • Front-End Developer • UI/UX Enthusiast
 
-
-<!-- Advanced Animated Header -->
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Maheshi%20Hettiarachchi&fontSize=55&fontColor=00FFFF&animation=fadeIn"/>
-
-</p>
-
-
-<!-- Typing Animation -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Maheshi%20Hettiarachchi&fontSize=42&fontColor=ffffff)
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+🚀;HNDIT+Student+🎓;Front-End+Developer+💻;UI%2FUX+Enthusiast+🎨;PHP+%7C+MySQL+Developer;Learning+React+%26+Laravel"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;HNDIT+Student;Front-End+Developer;PHP+%7C+MySQL;UI%2FUX+Designer;Always+Learning"/>
 </p>
-
-
----
 
 ## 💫 About Me
-
 - 🎓 HNDIT Student
 - 💻 Passionate Web Developer
 - 🎨 UI/UX Enthusiast
 - 🌱 Learning React & Laravel
-- 🚀 Building Responsive Web Applications
-
-
----
+- 🚀 Building responsive web applications
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode,figma,react,laravel"/>
-
 </p>
-
-
----
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maheshi-Hettiarachchi&theme=algolia&no-frame=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Maheshi-Hettiarachchi&theme=algolia&no-frame=true"/>
 </p>
-
-
----
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maheshi-Hettiarachchi&show_icons=true&theme=tokyonight"/>
-
 <img width="48%" src="https://streak-stats.demolab.com?user=Maheshi-Hettiarachchi&theme=tokyonight"/>
-
 </p>
-
-
----
 
 ## 💻 Top Languages
-
 <p align="center">
-
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshi-Hettiarachchi&layout=compact&theme=tokyonight"/>
-
 </p>
-
-
----
 
 ## 🚀 Featured Projects
-
-<p align="center">
-
-🛒 **KERN Fashion E-Commerce**
-
-<br>
-
-🍔 **FoodPlaza UI**
-
-<br>
-
-👗 **Clothing Store Website**
-
-</p>
-
-
----
+- 🛒 KERN Fashion E-Commerce
+- 🍔 FoodPlaza UI
+- 👗 Clothing Store Website
 
 ## 📈 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshi-Hettiarachchi&theme=tokyo-night"/>
-
 </p>
-
-
----
 
 ## 🐍 Snake Animation
+> Enable GitHub Actions in your profile repository and use:
+`https://raw.githubusercontent.com/Maheshi-Hettiarachchi/Maheshi-Hettiarachchi/output/github-contribution-grid-snake.svg`
 
+## 📬 Connect
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Maheshi-Hettiarachchi/Maheshi-Hettiarachchi/output/github-contribution-grid-snake.svg"/>
-
+<a href="https://www.linkedin.com/in/Maheshi-Hettiarachchi"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:maheshihettiarachchi6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-
----
-
-## 📬 Connect With Me
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/Maheshi-Hettiarachchi">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-
-<a href="mailto:maheshihettiarachchi6@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&style=for-the-badge"/>
 </p>
 
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&style=for-the-badge&color=blue"/>
-
-</p>
-
-
-<!-- Animated Footer -->
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer)
