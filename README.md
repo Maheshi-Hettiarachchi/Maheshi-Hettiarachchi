@@ -9,12 +9,16 @@
 </p>
 
 ## 💫 About Me
-🎓 HNDIT Undergraduate  
-💻 Front-End Developer  
-🎨 UI/UX Design Enthusiast  
-🛠 Building Websites with HTML, CSS, JavaScript, PHP & MySQL  
-🌱 Currently Learning React & Laravel  
-🚀 Creating Responsive Web Applications
+
+🎓 HNDIT Undergraduate passionate about Web Development and UI/UX Design.
+
+💻 Interested in building modern, responsive, and user-friendly web applications.
+
+🎨 Enjoy creating visually engaging interfaces with a focus on better user experiences.
+
+🚀 Currently improving my skills in Full-Stack Development and exploring new technologies.
+
+🌱 Looking for opportunities to apply my knowledge, contribute to innovative projects, and grow as a developer.
 
 ## 🛠 Tech Stack
 
