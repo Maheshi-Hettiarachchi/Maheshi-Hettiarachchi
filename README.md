@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maheshi Hettiarachchi
 
-> HNDIT Ungraduate • Full Stack-Developer • UI/UX Enthusiast
+> HNDIT Undergraduate • Full Stack-Developer • UI/UX Enthusiast
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Maheshi%20Hettiarachchi&fontSize=42&fontColor=ffffff)
 
