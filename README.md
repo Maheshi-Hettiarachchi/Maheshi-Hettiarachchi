@@ -1,40 +1,83 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED PROFILE HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maheshi%20Hettiarachchi&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Data+Analysis+Enthusiast+%F0%9F%93%8A;HND+IT+Undergraduate+%F0%9F%8E%93;Building+Ideas+Into+Digital+Experiences+%F0%9F%9A%80;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=230&section=header&text=Maheshi%20Hettiarachchi&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Data%20Analysis&descSize=18&descAlignY=58"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Data+Analysis+Enthusiast+%F0%9F%93%8A;Turning+Ideas+Into+Digital+Experiences+%F0%9F%9A%80;Designing+%E2%80%A2+Developing+%E2%80%A2+Analyzing+%E2%80%A2+Learning+%F0%9F%8C%B1" />
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Maheshi-Hettiarachchi?label=FOLLOWERS&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/Maheshi-Hettiarachchi?label=FOLLOWERS&style=for-the-badge&color=00C6FF"/>
+
+<img src="https://img.shields.io/github/stars/Maheshi-Hettiarachchi?label=STARS&style=for-the-badge&color=FFD700"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Maheshi!
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         INTRODUCTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💻 Web Development • 🎨 UI/UX Design • 📊 Data Analysis
+## ✨ Hello, I'm Maheshi! ✨
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430"/>
 
 </div>
 
-I'm an **HND IT Undergraduate** with a strong interest in building modern
-digital solutions.
+<div align="center">
 
-I enjoy exploring the combination of **technology, creativity and data**
-to create applications that are useful, visually engaging and easy to use.
+### 🎓 HND IT Undergraduate
+### 💻 Aspiring Full Stack Developer
+### 🎨 UI/UX Design Enthusiast
+### 📊 Data Analysis Enthusiast
+
+</div>
+
+<br>
+
+> 💡 **I love transforming ideas into useful, beautiful and data-driven digital experiences.**
+
+I'm passionate about combining **development, design and data** to build
+solutions that are not only functional, but also easy and enjoyable to use.
+
+---
+
+# 🌐 My Digital Journey
+
+<div align="center">
 
 ```text
-💻 Web Development
-      ↓
-🎨 UI/UX Design
-      ↓
-📊 Data & Insights
-      ↓
-🚀 Meaningful Digital Solutions
+                         💡 IDEA
+                           │
+                           ▼
+                    🔍 UNDERSTAND
+                           │
+                           ▼
+                     🎨 DESIGN
+                           │
+                           ▼
+                    💻 DEVELOP
+                           │
+                           ▼
+                      🧪 TEST
+                           │
+                           ▼
+                     📊 ANALYZE
+                           │
+                           ▼
+                      🚀 DEPLOY
+                           │
+                           ▼
+                     🌱 IMPROVE
+                           │
+                           └──────────────► 💡
