@@ -1,122 +1,40 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Maheshi Hettiarachchi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maheshi%20Hettiarachchi&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-### 💻 Aspiring Full Stack Developer
-### 🎨 UI/UX Design Enthusiast | 🎓 HND IT Undergraduate
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Building+Modern+Web+Experiences+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Data+Analysis+Enthusiast+%F0%9F%93%8A;HND+IT+Undergraduate+%F0%9F%8E%93;Building+Ideas+Into+Digital+Experiences+%F0%9F%9A%80;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Maheshi-Hettiarachchi&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Maheshi-Hettiarachchi?label=FOLLOWERS&style=for-the-badge&color=8B5CF6"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I'm an enthusiastic **HND IT Undergraduate** with a strong interest in:
-
-- 💻 Full Stack Web Development
-- 🎨 UI/UX Design
-- 🌐 Modern Web Technologies
-- ⚙️ Software Engineering
-- 🗄️ Database Development
-- 🚀 Building real-world applications
-
-I enjoy turning ideas into **responsive, user-friendly and visually
-engaging digital experiences.**
-
-🌱 Currently improving my development skills and working on personal projects.
-
-<br clear="right"/>
-
----
-
-# 💻 Tech Stack
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,java" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🎨 Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
----
-
-# 🚀 Featured Projects
+# 👋 Hello, I'm Maheshi!
 
 <div align="center">
 
-| 🛍️ Project | 💻 Technology | 🔗 Repository |
-|------------|---------------|---------------|
-| **KERN Fashion** | PHP • MySQL • JS | [View Project](https://github.com/Maheshi-Hettiarachchi/clotheshop) |
-| **Food Ordering System** | PHP • MySQL | [View Project](https://github.com/Maheshi-Hettiarachchi/food) |
-| **Bella Vista Restaurant** | HTML • CSS • JS | [View Project](https://github.com/Maheshi-Hettiarachchi/Bella-Vista-Italian-Restaurant) |
-| **Game Hub** | HTML • CSS • JS | [View Project](https://github.com/Maheshi-Hettiarachchi/game_hub) |
+### 💻 Web Development • 🎨 UI/UX Design • 📊 Data Analysis
 
 </div>
 
----
+I'm an **HND IT Undergraduate** with a strong interest in building modern
+digital solutions.
 
-# 🛍️ KERN Fashion
-
-### E-Commerce Web Application
-
-A modern fashion e-commerce platform designed to provide a simple,
-convenient and user-friendly online shopping experience.
-
-### ✨ Features
-
-- 👤 User Registration & Login
-- 🛍️ Product Browsing
-- 🛒 Shopping Cart
-- ❤️ Wishlist
-- 📦 Order Management
-- 💳 Checkout System
-- 👨‍💼 Admin Dashboard
-- 📱 Responsive UI
-
-**Built With:**
-
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `Bootstrap`
-
----
-
-# 🎨 UI/UX Design
-
-I enjoy creating interfaces that are:
+I enjoy exploring the combination of **technology, creativity and data**
+to create applications that are useful, visually engaging and easy to use.
 
 ```text
-✨ Clean
-🎯 User Friendly
-📱 Responsive
-🎨 Visually Appealing
-⚡ Easy to Navigate
+💻 Web Development
+      ↓
+🎨 UI/UX Design
+      ↓
+📊 Data & Insights
+      ↓
+🚀 Meaningful Digital Solutions
